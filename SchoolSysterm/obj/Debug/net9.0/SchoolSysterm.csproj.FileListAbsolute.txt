@@ -232,3 +232,4 @@ C:\Users\lenovo\Desktop\school_managment\SchoolSysterm\obj\Debug\net9.0\refint\S
 C:\Users\lenovo\Desktop\school_managment\SchoolSysterm\obj\Debug\net9.0\SchoolSysterm.pdb
 C:\Users\lenovo\Desktop\school_managment\SchoolSysterm\obj\Debug\net9.0\SchoolSysterm.genruntimeconfig.cache
 C:\Users\lenovo\Desktop\school_managment\SchoolSysterm\obj\Debug\net9.0\ref\SchoolSysterm.dll
+C:\Users\lenovo\Desktop\school_managment\SchoolSysterm\obj\Debug\net9.0\SchoolSysterm.sourcelink.json
